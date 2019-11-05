@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 View comments of a post using a JSON placeholder API and styled using Material UI. Also users can toggle between dark and light modes.
 
+![Light Theme](https://imgur.com/a/FlgM6jh)
+![Dark Theme](https://imgur.com/DxaD973)
+
 <p align="center">
   <img src="https://imgur.com/a/FlgM6jh" width="350" title="Light Theme text">
   <img src="https://imgur.com/DxaD973" width="350" alt="Dark Theme">
@@ -14,7 +17,7 @@ View comments of a post using a JSON placeholder API and styled using Material U
 
 ## Running the project
 
-Download the zip or clone the project. In the In the project directory, you can run:
+Download the zip or clone the project. In the project directory, you can run:
 
 ### `npm start`
 
