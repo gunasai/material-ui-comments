@@ -4,8 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 View comments of a post using a JSON placeholder API and styled using Material UI. Also users can toggle between dark and light modes.
 
-![Light Theme](public/light.png)
-![Dark Theme](public/dark.png?)
+<p align="center">
+  <img src="public/light.png" width="350" title="Light Theme text">
+  <img src="public/dark.png" width="350" alt="Dark Theme">
+</p>
+
+
 
 
 ## Running the project
